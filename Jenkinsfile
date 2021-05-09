@@ -3,7 +3,7 @@ pipeline {
     stages { 
         stage('Build') { 
             steps { 
-               echo 'This is a minimal pipeline.2' 
+               echo 'This is a minimal pipeline v2' 
             }
         }
     }
